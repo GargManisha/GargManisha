@@ -8,11 +8,9 @@
 
 ## ME - CHANGE ALL THIS
 
-- 🔭 I’m currently working on **Bug Hunting and Active Directory**
-- 🌱 I’m love to learn the **technical stuff, typically, whatever comes my way and adds some value in my InfoSec career**
-- 👯 I’m looking to collaborate on **projects. I have my 2 projects (based on Python and Bash) which are under development and would love to have collaborators to work on that with me**
-- 📫 How to reach me: **I prefer using Twitter: <a href='https://twitter.com/MayankHacks'>MayankHacks</a>**
-- ⚡ Fun fact: **I love playing Valorant. You can invite me to play with you as well :wink:**
+- 🔭 I’m currently working on **Angular 10 and Spring Boot**
+- 🌱 I love to learn the **technical stuff**
+- 📫 How to reach me: **I prefer using Linkedin: <a href='https://www.linkedin.com/in/gargmanisha2111/'>ManishaLinkedIn</a>**
 
 <br>
 
