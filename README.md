@@ -1,7 +1,7 @@
 <br>
 <h1 align="center">Hello! 👋 Myself Manisha Garg </h1>
 
-<p aligh="left">CHANGE THIS</p>
+<p aligh="left">this is your tagline. summary about you. CHANGE THIS</p>
 
 <br>
 
